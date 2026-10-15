@@ -4,7 +4,7 @@ A Fusion 360 script that builds your own ABENICS spherical gear set: the cross s
 
 ## Install and run
 
-1. Download `ABENICS_Gears.zip` from [Releases](https://github.com/teobrown/ABENICS-Fusion360/releases) and unzip it. You can also use Code > Download ZIP; the script is in the `ABENICS_Gears` folder.
+1. Click Code > Download ZIP and unzip it. The script is the `ABENICS_Gears` folder inside.
 2. In Fusion, go to Utilities > Add-Ins > Scripts and Add-Ins.
 3. On the Scripts tab, click + and select the `ABENICS_Gears` folder.
 4. Select ABENICS_Gears and click Run.
