@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"Teo Brown",
+	"description":	{
+		"":	"Builds an ABENICS CS gear and both monopole gears in meshing position"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
